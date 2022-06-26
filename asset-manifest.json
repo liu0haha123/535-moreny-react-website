@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/535-moreny-react-website/static/css/main.f9dcfac2.chunk.css",
+    "main.js": "/535-moreny-react-website/static/js/main.ffecf12f.chunk.js",
+    "main.js.map": "/535-moreny-react-website/static/js/main.ffecf12f.chunk.js.map",
+    "runtime-main.js": "/535-moreny-react-website/static/js/runtime-main.50e8a484.js",
+    "runtime-main.js.map": "/535-moreny-react-website/static/js/runtime-main.50e8a484.js.map",
+    "static/js/2.a02eca68.chunk.js": "/535-moreny-react-website/static/js/2.a02eca68.chunk.js",
+    "static/js/2.a02eca68.chunk.js.map": "/535-moreny-react-website/static/js/2.a02eca68.chunk.js.map",
+    "index.html": "/535-moreny-react-website/index.html",
+    "precache-manifest.8e0ee8262ce088e547a999d131045821.js": "/535-moreny-react-website/precache-manifest.8e0ee8262ce088e547a999d131045821.js",
+    "service-worker.js": "/535-moreny-react-website/service-worker.js",
+    "static/css/main.f9dcfac2.chunk.css.map": "/535-moreny-react-website/static/css/main.f9dcfac2.chunk.css.map",
+    "static/js/2.a02eca68.chunk.js.LICENSE.txt": "/535-moreny-react-website/static/js/2.a02eca68.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.50e8a484.js",
+    "static/js/2.a02eca68.chunk.js",
+    "static/css/main.f9dcfac2.chunk.css",
+    "static/js/main.ffecf12f.chunk.js"
+  ]
+}
